@@ -1,0 +1,43 @@
+.container {
+    background-color: #f2f2f2;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-inline {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-inline label {
+    flex: 0 0 auto;
+    margin-right: 10px;
+  }
+  
+  .form-inline .form-control {
+    flex: 1 1 auto;
+  }
+  
+  .tag-wrapper {
+    margin-right: 10px;
+  }
+  
+  .form-control {
+    padding: 5px;
+    width: 100%; /* Largura total */
+  }
+  
+  .justify-content-end {
+    justify-content: flex-end;
+  }
+  
+  .form-check {
+    text-align: right;
+  }
+
+  #titulo.central {
+    text-align: center;
+  }
